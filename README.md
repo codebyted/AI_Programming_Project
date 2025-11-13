@@ -25,8 +25,11 @@ FEATURES
 Python Libraries Used and purpose:
 
 pandas – for data loading, cleaning, and analysis
+
 matplotlib – for plotting and visualization
+
 google.colab – for file uploads in Colab environment
+
 io – for reading uploaded files
 
  How to Run the Code
