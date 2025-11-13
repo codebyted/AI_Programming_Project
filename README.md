@@ -8,35 +8,25 @@ Project Title
 SMART DATA ANALYZER
 
 SHORT DESCRIPTION
-This project is a Python-based AI Data Analyzer that allows users to:
-- Load and analyze datasets (CSV or Excel)
-- Clean and format data automatically
-- Generate insights such as mean, median, skewness, and kurtosis
-- Detect missing values and outliers
-- Perform visual analysis using Matplotlib and Seaborn
-- Run machine learning tasks like Linear Regression and K-Means Clustering
-- Respond to natural language queries about the dataset
+AI Data Analyzer is an intelligent Python tool for exploring and visualizing datasets in Google Colab. It supports both CSV and Excel files, allowing users to clean, summarize, and plot data easily. Built with pandas and matplotlib, it offers an interactive and user-friendly experience for efficient data-driven insights.
 
 It combines AI, data science, and automation for smart data handling.
 
 
 FEATURES
-- Data quality checks (missing values, duplicates)
-- Summary statistics with formatting
-- Automated insights & visualizations
-- Linear regression and clustering analysis
-- AI question-answer feature about dataset
-- Supports both CSV and Excel datasets
+ Load Datasets: Supports both CSV and Excel file formats.
+ Data Cleaning: Automatically formats and cleans numeric data.
+ Summary Statistics: Displays descriptive statistics for quick insights.
+ Visualization: Generates line charts for numeric columns.
+ Interactive Menu: Easy-to-use text-based navigation system.
+ Colab Friendly: Fully compatible with Google Colab for quick uploads and execution.
 
 Python Libraries Used and purpose:
 
-Pandas - Data manipulation and analysis |
-Numpy- Numerical computation |
-Matplotlib- Data visualization |
-Seaborn - Advanced statistical plots |
-Sklearn - Machine learning (Regression, Clustering) |
-Termcolor - Colored text output in console |
-Tkinter - File dialog for selecting datasets |
+pandas – for data loading, cleaning, and analysis
+matplotlib – for plotting and visualization
+google.colab – for file uploads in Colab environment
+io – for reading uploaded files
 
  How to Run the Code
 
