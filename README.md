@@ -238,5 +238,4 @@ This app demonstrates:
 
 ---
 
-**Next step:**
-👉 Send **Code 2**, and I’ll write its README just as thoroughly.
+
