@@ -3,7 +3,7 @@
  Student Details
 Name: Teddy Musyoki 
 
-Registration Number:250608DAI
+Registration Number: 250608DAI
 
 📊 Data Cleaning & Analysis App
 
